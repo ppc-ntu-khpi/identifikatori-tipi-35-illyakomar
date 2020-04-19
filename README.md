@@ -25,4 +25,4 @@
 
 ## Результат
 
-![Result](/img/result.png)
+![Result](/img/result.PNG)
